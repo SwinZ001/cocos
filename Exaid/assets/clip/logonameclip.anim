@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "logonameclip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "frame": 1.5166666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.15,
+            "y": 0.15
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 4.033333333333333,
+      "func": "goLogin",
+      "params": []
+    }
+  ]
+}
